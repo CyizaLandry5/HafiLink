@@ -91,6 +91,12 @@ Use HafiLink only on **private local networks**. Always start the server inside 
 
 ---
 
-## License
+## Made By
+
+**MPAYIMANA CYIZA Landry** - [https://cyizalandry.com](https://cyizalandry.com)
+
+---
+
+## Li
 
 MIT License
